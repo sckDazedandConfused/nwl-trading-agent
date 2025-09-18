@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "nwl-trading-agent"
+version = "0.1.0"
+description = "Trading bot scaffolding (Schwab API) with HTTP client and data ingest"
+authors = ["Stephen Karas"]
+readme = "README.md"
+packages = [{ include = "src" }]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+requests = "^2.32"
+urllib3 = "^2.2"
+python-dotenv = "^1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3"
+black = "^24.0"
+ruff = "^0.5"
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+addopts = "-q --maxfail=1"
+

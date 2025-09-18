@@ -1,0 +1,9 @@
+{
+    "expires_in": 1800,
+    "token_type": "Bearer",
+    "scope": "api",
+    "refresh_token": "lNgAitiEdn8mvUFNknrHEqqdlWEavu9ij6cCD75zOWVFN0bgJzI56g5Zfwnxew8T-vBNqxvIMMlBOPksPOxXPLFn3ZjyASjUKRQgylOIPkXzpIYpCtXPTszD1tQRHX8cwRArxX_WHAg@",
+    "access_token": "I0.b2F1dGgyLmJkYy5zY2h3YWIuY29t.os6gWcaXpqqaRd883qE134HN-v4VwRpg_hkdeIHqqko@",
+    "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxZjY4NDcyNmQwMDNlYjMyMmMyOGMyNmM4NTAwNjlmOGY3Yjc1NjhhNzRiMzEyNjczYmRhYmU1MDcyMGI0YmNjIiwiYXVkIjoiaE15cEdiUEdlNUFlQWxNY0NIN1hDell3R0dNQmpBUUIiLCJpc3MiOiJ1cm46Ly9hcGkuc2Nod2FiYXBpLmNvbSIsImV4cCI6MTc0NzQwOTk4OCwiaWF0IjoxNzQ3NDA2Mzg4LCJqdGkiOiJiNGVjZDhkZS01M2RlLTQ3YTUtYTFkYS01NzFmOGUxOTliZjIifQ.OKAbvqRluVTYuENUeUuL38HvFHvKYsmbnQfHJJKsomU",
+    "expires_at": 1747408128
+}
